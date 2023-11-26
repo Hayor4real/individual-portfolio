@@ -1,124 +1,64 @@
-# Individual Portfolio
+Planning & Inspiration:
+Initial Concept:
+The primary goal of my portfolio project was to create a visually appealing and user-friendly platform to showcase my skills, projects, and experiences as a frontend developer. I aimed to design an interface that not only reflects my personality and creativity but also provides a seamless and engaging experience for visitors.
 
-## Contents
+Design Inspiration:
+For design inspiration, I explored various websites known for their clean and modern aesthetics, such as Awwwards and Behance. Additionally, I drew inspiration from personal preferences for minimalist design with vibrant accents.
 
-- [Overview](#overview)
-  - [What is a Developer Portfolio?](#what-is-a-developer-portfolio)
-  - [Why am I building one now?](#why-am-i-building-one-now)
-  - [How do I make one?](#how-do-i-make-one)
-- [Instructions](#instructions)
-- [Resources](#resources)
-  - [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
-  - [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
+User Experience (UX):
+To enhance user experience, I focused on creating an intuitive navigation structure. The goal was to allow visitors to easily access information about my skills, projects, and contact details. I aimed for a balance between aesthetics and functionality to ensure a positive and memorable interaction.
 
-## Overview
-### What is a Developer Portfolio?
+Visual Elements:
+During the planning phase, I created wireframes and sketches to visualize the layout and placement of key elements. These visual guides played a crucial role in shaping the overall design, helping me achieve a cohesive and visually appealing portfolio.
 
-A Developer Portfolio is a website that showcases your skills, experience and work to prospective employers. It
-is similar in ways to a portfolio that an artist or photographer might create - they collate some example projects to
-show what sort of work they do. It's also a bit like a CV, as there will be aspects of talking about yourself and
-your background; but instead of just talking about your work, you can show what you've built!
+Color Palette and Typography:
+The chosen color palette consists of a combination of dark and subtle background shades with vibrant accent colors, contributing to a modern and sophisticated look. Typography decisions were made to ensure readability while maintaining a sense of elegance.
 
-### Why am I building one now?
+Tech Stack:
+Frontend:
+React: I chose React for its component-based architecture, which facilitates the creation of modular and reusable UI components. The virtual DOM and reactive updates align well with the dynamic nature of a portfolio.
+Styling:
+Tailwind CSS: Tailwind CSS was employed for styling due to its utility-first approach. It allowed for rapid development with pre-defined classes while maintaining the flexibility to customize styles when needed.
+Animation Library:
+Framer Motion: To incorporate engaging animations seamlessly, Framer Motion was integrated. Its declarative syntax and straightforward implementation made it an ideal choice for adding dynamic elements to the portfolio.
+Other Dependencies:
+Various React libraries were used for specific functionalities, such as react-icons for including popular icons and react-scroll for smooth scrolling between sections.
+Why This Stack:
+React:
+React's popularity in the frontend development community, along with its robust ecosystem, made it an obvious choice. The ability to build reusable components and manage state efficiently contributed to a more maintainable codebase.
 
-- You will need a portfolio to find/get a job as it will help you to stand out.
-- It is easier to build one now since the frontend course material will still be fresh on your minds.
-- It is great practice for the skills you have been learning.
-- This will also prepare you for when you gain access to Boolean's Career Services, as they can help you to refine
-  the portfolio.
+Tailwind CSS:
+The utility-first approach of Tailwind CSS allowed for rapid prototyping and styling without the need for extensive custom styles. This expedited the development process while ensuring consistency in design.
 
-### How do I make one?
+Framer Motion:
+Framer Motion stood out for its simplicity in adding animations. Its integration seamlessly complemented the React components, providing a visually engaging experience without compromising performance.
 
-The best way is to build one yourself! This way, even the portfolio site itself is a demonstration of your skills
-and experience.
+Overall Considerations:
+The selected stack was based on a balance of familiarity, community support, and the specific requirements of the portfolio project. The technologies chosen aligned well with the project goals, allowing for an efficient development process and a polished final product.
 
-First, plan your portfolio! Do some research on designs, think about what content you want to include, structure the
-very high-level layout of the site, etc. Check out the 
-[Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration) section below.
+# My professional portfolio made by me
 
-Next, build it! What you use to build it is up to you, and it will generally be one of:
+This repository contains a professional porfolio using the React Application. Please follow the instructions to set it up
 
-- A static website using just HTML, CSS and JS;
-- A React Single Page App (SPA) - i.e. it has no routing;
-- A React app with routing.
+**Features**
 
-> At this stage, it is NOT advised to build something with a new language or framework. Save this for the projects
-> that you want to showcase in the portfolio!
+1. Assets
+2. banner
+3. contact
+4. features
+5. footer
+6. layouts
+7. navbar
+8. projects
+9. resume
+10. constants
 
-Use [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
-to help you create a new GitHub repository for your portfolio
+[working Demo](https://akindele-ayorinde-portfolio.netlify.app/)
+[github](https://github.com/Hayor4real/portfolio-project)
 
-In terms of the content to include, at a very high level, you will want to include:
+my project
 
-- **Biography/Self-Intro** - a paragraph or two about you.
-- **Tech Stack** - the languages/technologies that you have experience with.
-- **Education / Experience** - only those that are relevant to coding / the line of work you want to go into.
-- **Projects** - sites/apps that you have built.
-  - You should aim to have at least 3 and no more than 5 projects to showcase.
-  - Try to add as much variety to the projects you choose as possible.
-  - Include a short description of what it does; the tech you used; and a link to the GitHub repo.
-  - EITHER include a link to the deployed online version OR add screenshots, short clips, GIFs, etc. of a
-    localhost version from your computer.
-  - Avoid including exercises from the course or apps built from tutorials.
-  - Challenges from the course could be included as these involved less guidance but having something unique would
-    still be better to help you stand out from the crowd.
-  - You will also have time to build and add more later!
+### Instructions
 
-For more ideas/detail, read through the relevant sections of
-[this e-book](https://www.joshwcomeau.com/effective-portfolio/download-book/).
-
-## Instructions
-You should create your portfolio in a new repo on your own account. But to make it easier for teachers and staff to 
-access your portfolio, please do the following:
-- [ ] Fork this repo, and clone the forked version from your GitHub account
-- [ ] Rename this `README.md` file to something else (e.g. `INSTRUCTIONS.md`)
-- [ ] Create a new file called `README.md`, and include the following content sections (complete them as and when 
-  you are able to):
-  - About My Portfolio Project
-    - Planning & Inspiration _(e.g. include drawings, diagrams, links to sites used to get ideas, etc.)_
-    - Tech Stack _(i.e. what technology / frameworks / libraries you used)_
-    - Why This Stack
-  - Links 
-    - Online Hosted Portfolio
-    - Portfolio GitHub Repo
-- [ ] Push your code and raise a PR, as per the usual process
-- [ ] If any information changes, update it, and push your changes (especially important for the links)
-
-> **NOTE:** We do not want you to use the fork of this repo to host your portfolio project code! Create a new 
-> dedicated repo for it from your own account.
-
-## Resources
-### Where can I find examples or inspiration?
-
-Here are some sites to check out:
-
-- https://webflow.com/blog/web-developer-portfolio-examples
-- https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
-- https://www.behance.net/?tracking_source=typeahead_search_direct&search=portfolio%20cv%20developer
-
-### How do I deploy my site to the internet?
-
-There are various approaches, and it depends on what sort of site/application you have built.
-
-- **Static Website** - The simplest solution is to host it on [GitHub Pages](https://pages.github.com/). This is
-  nice and simple, and will allow you to link your GitHub repos to GitHub pages,
-  which will then host the site/project for you.
-- **React Single Page App (SPA)** - If you have a React app with no routing, then there are two options: You can either:
-  1. Use GitHub Pages as above, but you will also need to include the `gh-pages` package. Follow the instructions
-     provided [here](https://blog.logrocket.com/deploying-react-apps-github-pages/) but bear in mind the following:
-     - Where they use `create-react-app` (CRA), you should use `vite` (CRA is an obsolete React project initialiser)
-     - You should check out additional setup instructions for `vite`
-       [here](https://vitejs.dev/guide/static-deploy.html#github-pages)
-  2. Use Netlify, as per the instructions below for "React with Routing".
-- **React with Routing** - If you have routing, then this is the best approach. It is also a good option if you have 
-  a React SPA with no routing. It requires a bit of setup so follow the guides carefully!
-  - [Freecodecamp tutorial](https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/)
-    - It is NOT advised to use the "Drag and Drop the Build Folder in Netlify" approach
-    - The "How to Deploy an App to Netlify from a GitHub Repository" approach is better
-    - Beware that this is from 2021 so some things may have changed
-  - [Netlify instructions](https://docs.netlify.com/integrations/frameworks/vite/#deploy-your-vite-project-with-netlify-cli)
-    - These are the official Netlify instructions for deploying a React app built using `vite`
-    - It involves installing their Command Line Interface (CLI), which is a programme that you run from your 
-      terminal / GitBash.
-  > Whichever Netlify  guide you follow, be sure to do the steps fo adding a `_redirects` file to enable both React SPA 
-  > and React with Routing apps to work properly. 
+1. Clone the repo and run `npm install`
+2. From the car-rental folder run `npm run dev`
