@@ -1,19 +1,3 @@
-Planning & Inspiration:
-Initial Concept:
-The primary goal of my portfolio project was to create a visually appealing and user-friendly platform to showcase my skills, projects, and experiences as a frontend developer. I aimed to design an interface that not only reflects my personality and creativity but also provides a seamless and engaging experience for visitors.
-
-Design Inspiration:
-For design inspiration, I explored various websites known for their clean and modern aesthetics, such as Awwwards and Behance. Additionally, I drew inspiration from personal preferences for minimalist design with vibrant accents.
-
-User Experience (UX):
-To enhance user experience, I focused on creating an intuitive navigation structure. The goal was to allow visitors to easily access information about my skills, projects, and contact details. I aimed for a balance between aesthetics and functionality to ensure a positive and memorable interaction.
-
-Visual Elements:
-During the planning phase, I created wireframes and sketches to visualize the layout and placement of key elements. These visual guides played a crucial role in shaping the overall design, helping me achieve a cohesive and visually appealing portfolio.
-
-Color Palette and Typography:
-The chosen color palette consists of a combination of dark and subtle background shades with vibrant accent colors, contributing to a modern and sophisticated look. Typography decisions were made to ensure readability while maintaining a sense of elegance.
-
 Tech Stack:
 Frontend:
 React: I chose React for its component-based architecture, which facilitates the creation of modular and reusable UI components. The virtual DOM and reactive updates align well with the dynamic nature of a portfolio.
@@ -29,12 +13,6 @@ React's popularity in the frontend development community, along with its robust 
 
 Tailwind CSS:
 The utility-first approach of Tailwind CSS allowed for rapid prototyping and styling without the need for extensive custom styles. This expedited the development process while ensuring consistency in design.
-
-Framer Motion:
-Framer Motion stood out for its simplicity in adding animations. Its integration seamlessly complemented the React components, providing a visually engaging experience without compromising performance.
-
-Overall Considerations:
-The selected stack was based on a balance of familiarity, community support, and the specific requirements of the portfolio project. The technologies chosen aligned well with the project goals, allowing for an efficient development process and a polished final product.
 
 # My professional portfolio made by me
 
